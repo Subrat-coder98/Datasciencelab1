@@ -1,2 +1,2 @@
 # Datasciencelab1
-introduction to keggle and work on titanic dataset
+introduction to keggle and worked on titanic dataset
